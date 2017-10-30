@@ -8,3 +8,4 @@ Every student or teacher can add themselves by sending a pull request.
 | Gaurav Gupta  | IT | [@GAURAVdante](https://github.com/GAURAVdante)| [gauravguptahappy97@gmail.com](mailto:gauravguptahappy97@gmail.com) |
 | Manank Patni | IT | [@Man-Jain](https://github.com/Man-Jain) | [manankpatni@gmail.com](mailto:manankpatni@gmail.com) |
 | Abhimanyu Shekhawat | IT | [@abhimanyu121](https://github.com/abhimanyu121) | [abhimanyushekhawat17.as@gmail.com](mailto:abhimanyushekhawat17.as@gmail.com) |
+| Aman Vijay | CSE | [@amanvijayv](https://github.com/amanvijayv) | [amanvijayv@gmail.com](mailto:amanvijayv@gmail.com) |
