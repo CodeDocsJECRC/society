@@ -15,3 +15,4 @@ Every student or teacher can add themselves by sending a pull request.
 | Kandarp Gupta | CSE | [@kandarpgupta97](https://github.com/kandarpgupta97) | [kandarpgupta97@gmail.com](mailto:kandarpgupta97@gmail.com) |
 | Aakash Maurya | CSE | [@Aksh-a1](https://github.com/Aksh-a1) | [akshmourya@gmail.com](mailto:akshmourya@gmail.com) |
 | Akshay Sharma | CSE | [@Akshaysharma](https://github.com/akshaysharma2277) | [akshaysharma2277@gmail.com](mailto:akshaysharma2277@gmail.com) |
+| Shiv Kumar Sharma | CSE | [@shiv-k-sharma](https://github.com/shiv-k-sharma) | [kumarshivsharma12@gmail.com](mailto:kumarshivsharma12@gmail.com) |
