@@ -18,3 +18,4 @@ Every student or teacher can add themselves by sending a pull request.
 | Shiv Kumar Sharma | CSE | [@shiv-k-sharma](https://github.com/shiv-k-sharma) | [kumarshivsharma12@gmail.com](mailto:kumarshivsharma12@gmail.com) |
 | Prateek Vijayvergiya| CSE | [@prateekvijayvergiya](https://github.com/prateekvijayvergiya) | [prateek.vijayudr27@gmail.com](mailto:prateek.vijayudr27@gmail.com) |
 | Shivansh Gupta | CSE | [@shivanshgpt13](https://github.com/shivanshgpt13) | [shivanshgpt13@gmail.com](mailto:shivanshgpt13@gmail.com) |
+| Rishabh Anand | ECE | [@19ANDY](https://github.com/19ANDY)| [geniusrishabhanand@gmail.com](mailto:geniusrishabhanand@gmail.com)|
