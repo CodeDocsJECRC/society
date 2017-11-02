@@ -16,3 +16,4 @@ Every student or teacher can add themselves by sending a pull request.
 | Aakash Maurya | CSE | [@Aksh-a1](https://github.com/Aksh-a1) | [akshmourya@gmail.com](mailto:akshmourya@gmail.com) |
 | Akshay Sharma | CSE | [@Akshaysharma](https://github.com/akshaysharma2277) | [akshaysharma2277@gmail.com](mailto:akshaysharma2277@gmail.com) |
 | Shiv Kumar Sharma | CSE | [@shiv-k-sharma](https://github.com/shiv-k-sharma) | [kumarshivsharma12@gmail.com](mailto:kumarshivsharma12@gmail.com) |
+| Shivansh Gupta | CSE | [@shivanshgpt13](https://github.com/shivanshgpt13) | [shivanshgpt13@gmail.com](mailto:shivanshgpt13@gmail.com) |
