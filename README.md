@@ -56,4 +56,5 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Rishabh Anand | ECE | [@19ANDY](https://github.com/19ANDY)| [geniusrishabhanand@gmail.com](mailto:geniusrishabhanand@gmail.com)|
 | Gaurav Jain | CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com)
 | Amrit Srivastava | CSE | [@amritsrivastava](https://github.com/amritsrivastava)| [amritsrivastava.2cse20@jecrc.ac.in](mailto:amritsrivastava.2cse20@jecrc.ac.in)|
+| Aditya Agarwal | CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)|
 | Aakanksha Jain | CSE | [@accakks](https://github.com/accakks)| [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com)|
