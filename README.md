@@ -4,7 +4,7 @@ Every student or teacher can add themselves by sending a pull request.
 - Fork the repository
 - Clone your personal repository of Society
 
-  `git clone https://*your_username*/society`
+  `git clone https://github.com/*your_username*/society`
 - Add your details to *README.md* file following the markdown syntax
 - Add the changed file
 
