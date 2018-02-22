@@ -1,5 +1,25 @@
 # CodeDocs Society
 Every student or teacher can add themselves by sending a pull request.
+## Steps to add yourself
+- Fork the repository [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/CodeDocsJECRC/society)
+- Clone your personal repository of Society
+
+  `git clone https://*your_username*/society`
+- Add your details to *README.md* file following the markdown syntax
+- Add the changed file
+
+  `git add README.md`
+- Commit the changes you made
+
+  `git commit -m "*your_user_name* add"`
+- Push the commit and changes your made to GitHub
+
+  `git push origin master`
+- Go to your repository on GitHub and make a **Pull Request** by click on the button - New Pull Request
+- After verifying your PR we will send you an invitation to join CodeDocs, please accept that
+
+-----
+## Members
 
 | Name | Branch/Dept | Github | Email |
 | ----- | ------ | ----- | ----- |
