@@ -54,6 +54,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Prateek Vijayvergiya| CSE | [@prateekvijayvergiya](https://github.com/prateekvijayvergiya) | [prateek.vijayudr27@gmail.com](mailto:prateek.vijayudr27@gmail.com) |
 | Shivansh Gupta | CSE | [@shivanshgpt13](https://github.com/shivanshgpt13) | [shivanshgpt13@gmail.com](mailto:shivanshgpt13@gmail.com) |
 | Rishabh Anand | ECE | [@19ANDY](https://github.com/19ANDY)| [geniusrishabhanand@gmail.com](mailto:geniusrishabhanand@gmail.com)|
+| Shiven Bholwani | CSE | [@shivayne](https://github.com/shivayne)| [bholwanishiven@gmail.com](mailto:bholwanishiven@gmail.com)|
 | Gaurav Jain | CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com)
 | Amrit Srivastava | CSE | [@amritsrivastava](https://github.com/amritsrivastava)| [amritsrivastava.2cse20@jecrc.ac.in](mailto:amritsrivastava.2cse20@jecrc.ac.in)|
 | Aditya Agarwal | CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)|
