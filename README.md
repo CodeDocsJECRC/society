@@ -66,7 +66,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Garima Gill | CSE | [@GarimaGill](https://github.com/GarimaGill) | [gillgarima01@gmail.com](mailto:gillgarima01@gmail.com)| 
 |Vaibhav Agarwal |CSE | [@vai2904](http://github.com/vai2904) |[vaibhvavagarwal.946@gmail.com](mailto:vaibhavagarwal.946@gmail.com) |
 | Vaishnavi Ajmera | CSE | [@vaishnaviajmera22](https://github.com/vaishnaviajmera22) | [vaishnaviajmera22@gmail.com](mailto:vaishnaviajmera22@gmail.com)|
-| Akshay Gagrani | CSE | [@Akshaygagrani](https://github.com/Akshaygagrani) | [gagrani.akshay@gmail.com] (mailto:gagrani.akshay@gmail.com)|
+| Akshay Gagrani | CSE | [@Akshaygagrani](https://github.com/Akshaygagrani) | [gagrani.akshay@gmail.com](mailto:gagrani.akshay@gmail.com)|
 | Vaishali Goyal | CSE | [@VaishaliGoyal307](https://github.com/VaishaliGoyal307/society.git) | [goyalvaishali307@gmail.com](mailto:goyalvaishali307@gmail.com)|
 |Aman Srivastav| CSE | .[@sriaman](https://github.com/sriaman) | [aman.srivastavmau@gmail.com](mailto:aman.srivastavmau@gmail.com)|
 | Arpit Jain | CSE | [@maiarpitjain](https://github.com/maiarpitjain) | [maiarpitjain94@gmail.com](mailto:maiarpitjain94@gmail.com)|
@@ -77,4 +77,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Sejal Jain | CSE | [@sejalkh](https://github.com/sejalkh) | [sejal8001@gmail.com](mailto:sejal8001@gmail.com)|
 | Virendra Pratap Singh Jhala | CSE | [@virendrajhala](https://github.com/virendrajhala) | [virendrapratapsinghjhala@gmail.com](mailto:virendrapratapsinghjhala@gmail.com) |
 | Prince Jhabak | CSE | [@Princejhabak](https://github.com/Princejhabak) | [princejhabak.cse20@jecrc.ac.in](mailto:princejhabak.cse20@jecrc.ac.in) |
-| Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com] (mailto:neerajsewanisrt8@gmail.com) | [neerajsewani.cse20@jecrc.ac.in](mailto:neerajsewani.cse20@jecrc.ac.in)|
+| Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
