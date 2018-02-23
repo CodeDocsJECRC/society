@@ -61,3 +61,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Aakanksha Jain | CSE | [@accakks](https://github.com/accakks)| [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com)|
 | Yukti Goswami | CSE | [@ukigos](https://github.com/ukigos) | [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)|
 | Akshay Gagrani | CSE | [@Akshaygagrani](https://github.com/Akshaygagrani) | [gagrani.akshay@gmail.com] (mailto:gagrani.akshay@gmail.com)|
+| Vaishali Goyal | CSE | [@VaishaliGoyal307](https://github.com/VaishaliGoyal307/society.git) | [goyalvaishali307@gmail.com](mailto:goyalvaishali307@gmail.com)|
