@@ -1,5 +1,41 @@
+
 # CodeDocs Society
 Every student or teacher can add themselves by sending a pull request.
+## Steps to add yourself
+- Fork the repository
+- Clone your personal repository of Society
+
+  `git clone https://github.com/*your_username*/society`
+- Add your details to *README.md* file following the markdown syntax
+- Add the changed file
+
+  `git add README.md`
+- Commit the changes you made
+
+  `git commit -m "*your_user_name* add"`
+- Push the commit and changes your made to GitHub
+
+  `git push origin master`
+- Go to your repository on GitHub and make a **Pull Request** by click on the button - New Pull Request
+- After verifying your PR we will send you an invitation to join CodeDocs, please accept that
+
+#### Keeping a fork up to date with original
+- Add remote from original repository in your forked repository
+
+  `cd *your_cloned_repo*`
+
+  `git remote add upstream https://github.com/CodeDocsJECRC/society`
+
+  `git fetch upstream`
+
+- Updating your fork from original repo to keep up with their changes
+
+  `git pull upstream master`
+
+#### Having trouble with something?
+Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
+-----
+## Members
 
 | Name | Branch/Dept | Github | Email |
 | ----- | ------ | ----- | ----- |
@@ -19,5 +55,15 @@ Every student or teacher can add themselves by sending a pull request.
 | Prateek Vijayvergiya| CSE | [@prateekvijayvergiya](https://github.com/prateekvijayvergiya) | [prateek.vijayudr27@gmail.com](mailto:prateek.vijayudr27@gmail.com) |
 | Shivansh Gupta | CSE | [@shivanshgpt13](https://github.com/shivanshgpt13) | [shivanshgpt13@gmail.com](mailto:shivanshgpt13@gmail.com) |
 | Rishabh Anand | ECE | [@19ANDY](https://github.com/19ANDY)| [geniusrishabhanand@gmail.com](mailto:geniusrishabhanand@gmail.com)|
+| Shiven Bholwani | CSE | [@shivayne](https://github.com/shivayne)| [bholwanishiven@gmail.com](mailto:bholwanishiven@gmail.com)|
 | Gaurav Jain | CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com)
-| Amrit Srivastava | CSE | [@amritsrivastava](https://github.com/amritsrivastava)| [amritsrivastava.2cse20@jecrc.ac.in](mailto:amritsrivastava.2cse20@jecrc.ac.in)|Milin Shah |CSE|[@milin0102](https://github.com/milin0102)| [milinshah0102@gmail.com](mailto:milinshah0102@gmail.com)
+| Amrit Srivastava | CSE | [@amritsrivastava](https://github.com/amritsrivastava)| [amritsrivastava.2cse20@jecrc.ac.in](mailto:amritsrivastava.2cse20@jecrc.ac.in)|
+| Aditya Agarwal | CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)|
+| Aakanksha Jain | CSE | [@accakks](https://github.com/accakks)| [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com)|
+| Yukti Goswami | CSE | [@ukigos](https://github.com/ukigos) | [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)|
+| Sahil Jain | CSE | [@sjain03](https://github.com/sjain03) | [sjain4810@gmail.com](mailto:sjain4810@gmail.com) |
+| Garima Gill | CSE | [@GarimaGill](https://github.com/GarimaGill) | [gillgarima01@gmail.com](mailto:gillgarima01@gmail.com)| 
+|Vaibhav Agarwal |CSE | [@vai2904](http://github.com/vai2904) |[vaibhvavagarwal.946@gmail.com](mailto:vaibhavagarwal.946@gmail.com) |
+| Vaishnavi Ajmera | CSE | [@vaishnaviajmera22](https://github.com/vaishnaviajmera22) | [vaishnaviajmera22@gmail.com](mailto:vaishnaviajmera22@gmail.com)|
+| Akshay Gagrani | CSE | [@Akshaygagrani](https://github.com/Akshaygagrani) | [gagrani.akshay@gmail.com] (mailto:gagrani.akshay@gmail.com)|
+| Vaishali Goyal | CSE | [@VaishaliGoyal307](https://github.com/VaishaliGoyal307/society.git) | [goyalvaishali307@gmail.com](mailto:goyalvaishali307@gmail.com)|
