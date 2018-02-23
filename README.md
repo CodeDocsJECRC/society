@@ -67,4 +67,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Vaishnavi Ajmera | CSE | [@vaishnaviajmera22](https://github.com/vaishnaviajmera22) | [vaishnaviajmera22@gmail.com](mailto:vaishnaviajmera22@gmail.com)|
 | Akshay Gagrani | CSE | [@Akshaygagrani](https://github.com/Akshaygagrani) | [gagrani.akshay@gmail.com] (mailto:gagrani.akshay@gmail.com)|
 | Vaishali Goyal | CSE | [@VaishaliGoyal307](https://github.com/VaishaliGoyal307/society.git) | [goyalvaishali307@gmail.com](mailto:goyalvaishali307@gmail.com)|
-| Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com] (mailto:neerajsewanisrt8@gmail.com) | [neerajsewani.cse20@jecrc.ac.in](mailto:neerajsewani.cse20@jecrc.ac.in)|
+| Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
