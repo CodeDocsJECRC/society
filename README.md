@@ -34,7 +34,7 @@ Every student or teacher can add themselves by sending a pull request.
 
 #### Having trouble with something?
 Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
------
+----
 ## Members
 
 | Name | Branch/Dept | Github | Email |
@@ -82,3 +82,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
 | Dhruv Shridhar | CSE | [@dhruvshridhar](https://github.com/dhruvshridhar) | [dhruvshridhar@gmail.com](mailto:dhruvshridhar@gmail.com) |
 | Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in]
+| Khushbu Singhal | CSE | [@khushbusinghal333](https://github.com/khushbusinghal333) | [khushbusinghal.cse20@jecrc.ac.in]
