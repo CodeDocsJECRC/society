@@ -60,3 +60,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Aditya Agarwal | CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)|
 | Aakanksha Jain | CSE | [@accakks](https://github.com/accakks)| [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com)|
 | Yukti Goswami | CSE | [@ukigos](https://github.com/ukigos) | [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)|
+| Nishita Gupta | CSE | [@nishita98](https://github.com/nishita98) | [nishitagupta.cse20@jecrc.ac.in](mailto:nishitagupta.cse20@jecrc.ac.in)|
