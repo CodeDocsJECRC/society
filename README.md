@@ -89,3 +89,5 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Khushbu Singhal | CSE | [@khushbusinghal333](https://github.com/khushbusinghal333) | [khushbusinghal.cse20@jecrc.ac.in](mailto:khushbusinghal.cse20@jecrc.ac.in) |
 | Mansi Negi | CSE | [@mansinegi321](https://github.com/mansinegi321) | [mansinegi.cse20@jecrc.ac.in](mailto:mansinegi.cse20@jecrc.ac.in) |
 | Muskan Agarwal | CSE | [@Muskan1411](https://github.com/Muskan1411) | [muskan99ag@gmail.com](mailto:muskan99ag@gmail.com) |
+| Mohit Juneja | CSE | [@moh1t](https://github.com/moh1t) | [mohitjuneja.cse20@jecrc.ac.in](mailto:mohitjuneja.cse20@jecrc.ac.in) |
+
