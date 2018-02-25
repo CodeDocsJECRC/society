@@ -78,4 +78,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Virendra Pratap Singh Jhala | CSE | [@virendrajhala](https://github.com/virendrajhala) | [virendrapratapsinghjhala@gmail.com](mailto:virendrapratapsinghjhala@gmail.com) |
 | Prince Jhabak | CSE | [@Princejhabak](https://github.com/Princejhabak) | [princejhabak.cse20@jecrc.ac.in](mailto:princejhabak.cse20@jecrc.ac.in) |
 | Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
-| Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in]
+| Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in)
