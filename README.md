@@ -83,3 +83,5 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Dhruv Shridhar | CSE | [@dhruvshridhar](https://github.com/dhruvshridhar) | [dhruvshridhar@gmail.com](mailto:dhruvshridhar@gmail.com) |
 | Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in]
 | Khushbu Singhal | CSE | [@khushbusinghal333](https://github.com/khushbusinghal333) | [khushbusinghal.cse20@jecrc.ac.in]
+| Mansi Negi | CSE | [@mansinegi321](https://github.com/mansinegi321) | [mansinegi.cse20@jecrc.ac.in](mailto:mansinegi.cse20@jecrc.ac.in) |
+| Muskan Agarwal | CSE | [@Muskan1411](https://github.com/Muskan1411) | [muskan99ag@gmail.com](mailto:muskan99ag@gmail.com) |
