@@ -21,4 +21,4 @@ Every student or teacher can add themselves by sending a pull request.
 | Rishabh Anand | ECE | [@19ANDY](https://github.com/19ANDY)| [geniusrishabhanand@gmail.com](mailto:geniusrishabhanand@gmail.com)|
 | Gaurav Jain | CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com)
 | Amrit Srivastava | CSE | [@amritsrivastava](https://github.com/amritsrivastava)| [amritsrivastava.2cse20@jecrc.ac.in](mailto:amritsrivastava.2cse20@jecrc.ac.in)|
-| Neha Gautam | CSE | [@neha16gautam](https://github.com/neha16gautam)| [nehagautam.2cse20@jecrc.ac.in](mailto:nehagautam.2cse20@jecrc.ac.in))
+| Neha Gautam | CSE | [@neha16gautam](https://github.com/neha16gautam)| [nehagautam.2cse20@jecrc.ac.in](mailto:nehagautam.2cse20@jecrc.ac.in)
