@@ -90,6 +90,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Khushbu Singhal | CSE | [@khushbusinghal333](https://github.com/khushbusinghal333) | [khushbusinghal.cse20@jecrc.ac.in](mailto:khushbusinghal.cse20@jecrc.ac.in) |
 | Mansi Negi | CSE | [@mansinegi321](https://github.com/mansinegi321) | [mansinegi.cse20@jecrc.ac.in](mailto:mansinegi.cse20@jecrc.ac.in) |
 | Muskan Agarwal | CSE | [@Muskan1411](https://github.com/Muskan1411) | [muskan99ag@gmail.com](mailto:muskan99ag@gmail.com) |
+| Nipun Kataria | CSE | [@Nipun22](https://github.com/Nipun22) | [nipunkataria98@gmail.com](mailto:nipunkataria98@gmail.com) |
 |Abhishek Mohata | CSE | [@amohata007](https://github.com/amohata007) | [amohata.007@gmail.com](mailto:amohata.007@gmail.com) |
 | Nakul Joshi | CSE | [@kanha0](https://github.com/kanha0) | [nakulswims@gmail.com](mailto:nakulswims@gmail.com) |
 | Priyanka Maheshwari | CSE | [@priyankama](https://github.com/priyankama) | [priyankamaheshwari2697@gmail.com](mailto:priyankamaheshwari2697@gmail.com) |
