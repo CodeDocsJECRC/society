@@ -34,7 +34,7 @@ Every student or teacher can add themselves by sending a pull request.
 
 #### Having trouble with something?
 Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
------
+----
 ## Members
 
 | Name | Branch/Dept | Github | Email |
@@ -62,12 +62,14 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Aditya Agarwal | CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)|
 | Aakanksha Jain | CSE | [@accakks](https://github.com/accakks)| [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com)|
 | Yukti Goswami | CSE | [@ukigos](https://github.com/ukigos) | [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)|
+| Nishita Gupta | CSE | [@nishita98](https://github.com/nishita98) | [nishitagupta.cse20@jecrc.ac.in](mailto:nishitagupta.cse20@jecrc.ac.in)|
 | Sahil Jain | CSE | [@sjain03](https://github.com/sjain03) | [sjain4810@gmail.com](mailto:sjain4810@gmail.com) |
 | Garima Gill | CSE | [@GarimaGill](https://github.com/GarimaGill) | [gillgarima01@gmail.com](mailto:gillgarima01@gmail.com)| 
 |Vaibhav Agarwal |CSE | [@vai2904](http://github.com/vai2904) |[vaibhvavagarwal.946@gmail.com](mailto:vaibhavagarwal.946@gmail.com) |
 | Vaishnavi Ajmera | CSE | [@vaishnaviajmera22](https://github.com/vaishnaviajmera22) | [vaishnaviajmera22@gmail.com](mailto:vaishnaviajmera22@gmail.com)|
 | Akshay Gagrani | CSE | [@Akshaygagrani](https://github.com/Akshaygagrani) | [gagrani.akshay@gmail.com](mailto:gagrani.akshay@gmail.com)|
 | Vaishali Goyal | CSE | [@VaishaliGoyal307](https://github.com/VaishaliGoyal307/society.git) | [goyalvaishali307@gmail.com](mailto:goyalvaishali307@gmail.com)|
+| Lakshay Wadhwa | CSE | [@luck-u](https://github.com/luck-u) | [lakshaywadhwa001@gmail.com](mailto.lakshaywadhwa001@gmail.com)|
 |Aman Srivastav| CSE | .[@sriaman](https://github.com/sriaman) | [aman.srivastavmau@gmail.com](mailto:aman.srivastavmau@gmail.com)|
 | Arpit Jain | CSE | [@maiarpitjain](https://github.com/maiarpitjain) | [maiarpitjain94@gmail.com](mailto:maiarpitjain94@gmail.com)|
 | Abhilash kumar tiwari | CSE | [@abhilashk433](https://github.com/abhilashk433/society.git) | [abhilashk433@gmail.com](mailto:abhilashk433@gmail.com)|
@@ -79,3 +81,17 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Prince Jhabak | CSE | [@Princejhabak](https://github.com/Princejhabak) | [princejhabak.cse20@jecrc.ac.in](mailto:princejhabak.cse20@jecrc.ac.in) |
 | Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
 | Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in)
+| Dhruv Shridhar | CSE | [@dhruvshridhar](https://github.com/dhruvshridhar) | [dhruvshridhar@gmail.com](mailto:dhruvshridhar@gmail.com) |
+| Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in) |
+| Sparsh Singhal | CSE | [@sparsh1999](https://github.com/sparsh1999) | [sparshsinghal95@gmail.com](mailto:sparshsinghal95@gmail.com) |
+| Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in) |
+|RAHUL KUMAR | CSE | [rkc7518@gmail.com](http://girthub.com/rkc7518) | [rkc758@gmail.com](mailto:rkc758@gmail.com) |
+| Rahul Hada |  CSE | [@rahulhada3299](https://github.com/rahulhada3299) | [rahulsinghhada.cse20@jecrc.ac.in](mailto:rahulsinghhada.cse20@jecrc.ac.in) |
+| Khushbu Singhal | CSE | [@khushbusinghal333](https://github.com/khushbusinghal333) | [khushbusinghal.cse20@jecrc.ac.in](mailto:khushbusinghal.cse20@jecrc.ac.in) |
+| Mansi Negi | CSE | [@mansinegi321](https://github.com/mansinegi321) | [mansinegi.cse20@jecrc.ac.in](mailto:mansinegi.cse20@jecrc.ac.in) |
+| Muskan Agarwal | CSE | [@Muskan1411](https://github.com/Muskan1411) | [muskan99ag@gmail.com](mailto:muskan99ag@gmail.com) |
+| Nakul Joshi | CSE | [@kanha0](https://github.com/kanha0) | [nakulswims@gmail.com](mailto:nakulswims@gmail.com) |
+| Priyanka Maheshwari | CSE | [@priyankama](https://github.com/priyankama) | [priyankamaheshwari2697@gmail.com](mailto:priyankamaheshwari2697@gmail.com) |
+| Pallavi Agarwal | CSE | [@pallavimaruji](https://github.com/pallavimaruji) | [pallaviagarwal8696@gmail.com](mailto:pallaviagarwal8696@gmail.com) |
+| Meenal Jain | CSE | [@meenaljain8001](https://github.com/meenaljain8001) | [meenal8001@gmail.com](mailto:meenal8001@gmail.com) |
+| Ram Vivek Singh | CSE | [@ram-9667](https://github.com/ram-9667) | [ramviveksingh.cse20@jecrc.ac.in](mailto:ramviveksingh.cse20@jecrc.ac.in) |
