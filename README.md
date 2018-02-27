@@ -80,6 +80,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Virendra Pratap Singh Jhala | CSE | [@virendrajhala](https://github.com/virendrajhala) | [virendrapratapsinghjhala@gmail.com](mailto:virendrapratapsinghjhala@gmail.com) |
 | Prince Jhabak | CSE | [@Princejhabak](https://github.com/Princejhabak) | [princejhabak.cse20@jecrc.ac.in](mailto:princejhabak.cse20@jecrc.ac.in) |
 | Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
+| Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in)
 | Dhruv Shridhar | CSE | [@dhruvshridhar](https://github.com/dhruvshridhar) | [dhruvshridhar@gmail.com](mailto:dhruvshridhar@gmail.com) |
 | Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in) |
 | Sparsh Singhal | CSE | [@sparsh1999](https://github.com/sparsh1999) | [sparshsinghal95@gmail.com](mailto:sparshsinghal95@gmail.com) |
@@ -90,4 +91,10 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Mansi Negi | CSE | [@mansinegi321](https://github.com/mansinegi321) | [mansinegi.cse20@jecrc.ac.in](mailto:mansinegi.cse20@jecrc.ac.in) |
 | Muskan Agarwal | CSE | [@Muskan1411](https://github.com/Muskan1411) | [muskan99ag@gmail.com](mailto:muskan99ag@gmail.com) |
 | Mohit Juneja | CSE | [@moh1t](https://github.com/moh1t) | [mohitjuneja.cse20@jecrc.ac.in](mailto:mohitjuneja.cse20@jecrc.ac.in) |
-
+| Nipun Kataria | CSE | [@Nipun22](https://github.com/Nipun22) | [nipunkataria98@gmail.com](mailto:nipunkataria98@gmail.com) |
+|Abhishek Mohata | CSE | [@amohata007](https://github.com/amohata007) | [amohata.007@gmail.com](mailto:amohata.007@gmail.com) |
+| Nakul Joshi | CSE | [@kanha0](https://github.com/kanha0) | [nakulswims@gmail.com](mailto:nakulswims@gmail.com) |
+| Priyanka Maheshwari | CSE | [@priyankama](https://github.com/priyankama) | [priyankamaheshwari2697@gmail.com](mailto:priyankamaheshwari2697@gmail.com) |
+| Pallavi Agarwal | CSE | [@pallavimaruji](https://github.com/pallavimaruji) | [pallaviagarwal8696@gmail.com](mailto:pallaviagarwal8696@gmail.com) |
+| Meenal Jain | CSE | [@meenaljain8001](https://github.com/meenaljain8001) | [meenal8001@gmail.com](mailto:meenal8001@gmail.com) |
+| Ram Vivek Singh | CSE | [@ram-9667](https://github.com/ram-9667) | [ramviveksingh.cse20@jecrc.ac.in](mailto:ramviveksingh.cse20@jecrc.ac.in) |
