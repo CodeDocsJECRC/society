@@ -90,3 +90,6 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Mansi Negi | CSE | [@mansinegi321](https://github.com/mansinegi321) | [mansinegi.cse20@jecrc.ac.in](mailto:mansinegi.cse20@jecrc.ac.in) |
 | Muskan Agarwal | CSE | [@Muskan1411](https://github.com/Muskan1411) | [muskan99ag@gmail.com](mailto:muskan99ag@gmail.com) |
 | Priyanka Maheshwari | CSE | [@priyankama](https://github.com/priyankama) | [priyankamaheshwari2697@gmail.com](mailto:priyankamaheshwari2697@gmail.com) |
+| Pallavi Agarwal | CSE | [@pallavimaruji](https://github.com/pallavimaruji) | [pallaviagarwal8696@gmail.com](mailto:pallaviagarwal8696@gmail.com) |
+| Meenal Jain | CSE | [@meenaljain8001](https://github.com/meenaljain8001) | [meenal8001@gmail.com](mailto:meenal8001@gmail.com) |
+| Ram Vivek Singh | CSE | [@ram-9667](https://github.com/ram-9667) | [ramviveksingh.cse20@jecrc.ac.in](mailto:ramviveksingh.cse20@jecrc.ac.in) |
