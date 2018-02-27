@@ -85,7 +85,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in) |
 | Sparsh Singhal | CSE | [@sparsh1999](https://github.com/sparsh1999) | [sparshsinghal95@gmail.com](mailto:sparshsinghal95@gmail.com) |
 | Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in) |
-|RAHUL KUMAR | CSE | [@rkc7518(http://girthub.com/rkc7518) | [rkc758@gmail.com](mailto:rkc758@gmail.com) |
+|RAHUL KUMAR | CSE | [@rkc7518](http://girthub.com/rkc7518) | [rkc758@gmail.com](mailto:rkc758@gmail.com) |
 | Rahul Hada |  CSE | [@rahulhada3299](https://github.com/rahulhada3299) | [rahulsinghhada.cse20@jecrc.ac.in](mailto:rahulsinghhada.cse20@jecrc.ac.in) |
 | Khushbu Singhal | CSE | [@khushbusinghal333](https://github.com/khushbusinghal333) | [khushbusinghal.cse20@jecrc.ac.in](mailto:khushbusinghal.cse20@jecrc.ac.in) |
 | Mansi Negi | CSE | [@mansinegi321](https://github.com/mansinegi321) | [mansinegi.cse20@jecrc.ac.in](mailto:mansinegi.cse20@jecrc.ac.in) |
