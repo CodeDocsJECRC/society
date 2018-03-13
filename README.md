@@ -80,9 +80,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Virendra Pratap Singh Jhala | CSE | [@virendrajhala](https://github.com/virendrajhala) | [virendrapratapsinghjhala@gmail.com](mailto:virendrapratapsinghjhala@gmail.com) |
 | Prince Jhabak | CSE | [@Princejhabak](https://github.com/Princejhabak) | [princejhabak.cse20@jecrc.ac.in](mailto:princejhabak.cse20@jecrc.ac.in) |
 | Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
-| Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in)
 | Dhruv Shridhar | CSE | [@dhruvshridhar](https://github.com/dhruvshridhar) | [dhruvshridhar@gmail.com](mailto:dhruvshridhar@gmail.com) |
-| Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in) |
 | Sparsh Singhal | CSE | [@sparsh1999](https://github.com/sparsh1999) | [sparshsinghal95@gmail.com](mailto:sparshsinghal95@gmail.com) |
 | Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in) |
 |RAHUL KUMAR | CSE | [@rkc7518](http://girthub.com/rkc7518) | [rkc758@gmail.com](mailto:rkc758@gmail.com) |
@@ -99,4 +97,6 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Meenal Jain | CSE | [@meenaljain8001](https://github.com/meenaljain8001) | [meenal8001@gmail.com](mailto:meenal8001@gmail.com) |
 | Ram Vivek Singh | CSE | [@ram-9667](https://github.com/ram-9667) | [ramviveksingh.cse20@jecrc.ac.in](mailto:ramviveksingh.cse20@jecrc.ac.in) |
 | Akshita Vijay | CSE | [@akshitavijay](https://github.com/akshitavijay) | [akshita.vijay654@gmail.com](mailto:akshita.vijay654@gmail.com) |
+| Suraj Kumar | CSE | [@surajkumarcse](https://github.com/surajkumarcse) | [surajkumar.2cse20@jecrc.ac.in](mailto:surajkumar.2cse20@jecrc.ac.in)|
 | Hitesh Wasdani | CSE| [@Hitesh98765](https://github.com/Hitesh98765) | [hwasdani@gmail.com](mailto:hwasdani@gmail.com) |
+
