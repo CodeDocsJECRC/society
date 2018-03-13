@@ -59,6 +59,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Shiven Bholwani | CSE | [@shivayne](https://github.com/shivayne)| [bholwanishiven@gmail.com](mailto:bholwanishiven@gmail.com)|
 | Gaurav Jain | CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com)
 | Amrit Srivastava | CSE | [@amritsrivastava](https://github.com/amritsrivastava)| [amritsrivastava.2cse20@jecrc.ac.in](mailto:amritsrivastava.2cse20@jecrc.ac.in)|
+| Neha Gautam | CSE | [@neha16gautam](https://github.com/neha16gautam)| [nehagautam.2cse20@jecrc.ac.in](mailto:nehagautam.2cse20@jecrc.ac.in)|
 | Aditya Agarwal | CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)|
 | Aakanksha Jain | CSE | [@accakks](https://github.com/accakks)| [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com)|
 | Yukti Goswami | CSE | [@ukigos](https://github.com/ukigos) | [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)|
@@ -97,4 +98,10 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Meenal Jain | CSE | [@meenaljain8001](https://github.com/meenaljain8001) | [meenal8001@gmail.com](mailto:meenal8001@gmail.com) |
 | Ram Vivek Singh | CSE | [@ram-9667](https://github.com/ram-9667) | [ramviveksingh.cse20@jecrc.ac.in](mailto:ramviveksingh.cse20@jecrc.ac.in) |
 | Akshita Vijay | CSE | [@akshitavijay](https://github.com/akshitavijay) | [akshita.vijay654@gmail.com](mailto:akshita.vijay654@gmail.com) |
+|Kuldeep Singh Solanki| CSE | [@kuldeep2108](https://github.com/kuldeep2108) | [kuldeep.solanki2308@gmail.com](mailto:kuldeep.solanki2308@gmail.com) |
+| Suraj Kumar | CSE | [@surajkumarcse](https://github.com/surajkumarcse) | [surajkumar.2cse20@jecrc.ac.in](mailto:surajkumar.2cse20@jecrc.ac.in)|
+| Hitesh Wasdani | CSE| [@Hitesh98765](https://github.com/Hitesh98765) | [hwasdani@gmail.com](mailto:hwasdani@gmail.com) |
+| Aman Bansal | CSE | [@AmanBansal1998](https://github.com/AmanBansal1998/society.git) | [aimybansal@gmail.com](mailto:aimybansal@gmail.com)|
+| Poonam Rathore | CSE | [@poonamrathore](https://github.com/poonamrathore) | [poonamrathore.1748@gmail.com](mailto:poonamrathore.1748@gmail.com) |
+| Saksham | CSE | [@saksham-ahuja](https://github.com/saksham-ahuja) | [sakshamahuja43@gmail.com](mailto:sakshamahuja43@gmail.com) |
 | Mridul Upadhyay | IT | [@shanimridul](https://github.com/shanimridul) | [mridulupadhyay38@gmail.com](mailto:mridulupadhyay38@gmail.com) |
