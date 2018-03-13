@@ -99,6 +99,6 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Akshita Vijay | CSE | [@akshitavijay](https://github.com/akshitavijay) | [akshita.vijay654@gmail.com](mailto:akshita.vijay654@gmail.com) |
 | Suraj Kumar | CSE | [@surajkumarcse](https://github.com/surajkumarcse) | [surajkumar.2cse20@jecrc.ac.in](mailto:surajkumar.2cse20@jecrc.ac.in)|
 | Hitesh Wasdani | CSE| [@Hitesh98765](https://github.com/Hitesh98765) | [hwasdani@gmail.com](mailto:hwasdani@gmail.com) |
-| Aman Bansal | CSE | [@AmanBansal1998](https://github.com/AmanBansal1998/society.git) | [aimybansal@gmail.com](mailto:aimybansal@gmail.com|
+| Aman Bansal | CSE | [@AmanBansal1998](https://github.com/AmanBansal1998/society.git) | [aimybansal@gmail.com](mailto:aimybansal@gmail.com)|
 
 
