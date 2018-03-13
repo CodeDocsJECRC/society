@@ -97,3 +97,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Meenal Jain | CSE | [@meenaljain8001](https://github.com/meenaljain8001) | [meenal8001@gmail.com](mailto:meenal8001@gmail.com) |
 | Ram Vivek Singh | CSE | [@ram-9667](https://github.com/ram-9667) | [ramviveksingh.cse20@jecrc.ac.in](mailto:ramviveksingh.cse20@jecrc.ac.in) |
 | Akshita Vijay | CSE | [@akshitavijay](https://github.com/akshitavijay) | [akshita.vijay654@gmail.com](mailto:akshita.vijay654@gmail.com) |
+|Kuldeep Singh Solanki| CSE | [@kuldeep2108](https://github.com/kuldeep2108) | [kuldeep.solanki2308@gmail.com](mailto:kuldeep.solanki2308@gmail.com) |
