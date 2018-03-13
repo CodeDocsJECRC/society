@@ -101,6 +101,6 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Hitesh Wasdani | CSE| [@Hitesh98765](https://github.com/Hitesh98765) | [hwasdani@gmail.com](mailto:hwasdani@gmail.com) |
 | Aman Bansal | CSE | [@AmanBansal1998](https://github.com/AmanBansal1998/society.git) | [aimybansal@gmail.com](mailto:aimybansal@gmail.com)|
 | Poonam Rathore | CSE | [@poonamrathore](https://github.com/poonamrathore) | [poonamrathore.1748@gmail.com](mailto:poonamrathore.1748@gmail.com) |
-
+| Saksham | CSE | [@saksham-ahuja](https://github.com/saksham-ahuja) | [sakshamahuja43@gmail.com](mailto:sakshamahuja43@gmail.com) |
 
 
