@@ -105,3 +105,5 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Poonam Rathore | CSE | [@poonamrathore](https://github.com/poonamrathore) | [poonamrathore.1748@gmail.com](mailto:poonamrathore.1748@gmail.com) |
 | Saksham | CSE | [@saksham-ahuja](https://github.com/saksham-ahuja) | [sakshamahuja43@gmail.com](mailto:sakshamahuja43@gmail.com) |
 | Mridul Upadhyay | IT | [@shanimridul](https://github.com/shanimridul) | [mridulupadhyay38@gmail.com](mailto:mridulupadhyay38@gmail.com) |
+| Mridul Upadhyay | IT | [@shanimridul](https://github.com/shanimridul) | [mridulupadhyay38@gmail.com](mailto:mridulupadhyay38@gmail.com) |
+| kajal tekchandani | CSE | [@kajal07(https://github.com/kajal07) | [kajaltekchandani6398@gmail.com](mailto:kajaltekchandani6398@gmail.com) |
