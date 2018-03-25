@@ -58,9 +58,6 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Rishabh Anand | ECE | [@19ANDY](https://github.com/19ANDY)| [geniusrishabhanand@gmail.com](mailto:geniusrishabhanand@gmail.com)|
 | Shiven Bholwani | CSE | [@shivayne](https://github.com/shivayne)| [bholwanishiven@gmail.com](mailto:bholwanishiven@gmail.com)|
 | Gaurav Jain | CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com)
-<<<<<<< HEAD
-| Amrit Srivastava | CSE | [@amritsrivastava](https://github.com/amritsrivastava)| [amritsrivastava.2cse20@jecrc.ac.in](mailto:amritsrivastava.2cse20@jecrc.ac.in)|Milin Shah | CSE | [@milin0102](https://github.com/milin0102) | [milinshah0102@gmail.com] (mailto:milinshah0102@gmail.com) |
-=======
 | Amrit Srivastava | CSE | [@amritsrivastava](https://github.com/amritsrivastava)| [amritsrivastava.2cse20@jecrc.ac.in](mailto:amritsrivastava.2cse20@jecrc.ac.in)|
 | Neha Gautam | CSE | [@neha16gautam](https://github.com/neha16gautam)| [nehagautam.2cse20@jecrc.ac.in](mailto:nehagautam.2cse20@jecrc.ac.in)|
 | Aditya Agarwal | CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)|
@@ -101,6 +98,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Meenal Jain | CSE | [@meenaljain8001](https://github.com/meenaljain8001) | [meenal8001@gmail.com](mailto:meenal8001@gmail.com) |
 | Ram Vivek Singh | CSE | [@ram-9667](https://github.com/ram-9667) | [ramviveksingh.cse20@jecrc.ac.in](mailto:ramviveksingh.cse20@jecrc.ac.in) |
 | Akshita Vijay | CSE | [@akshitavijay](https://github.com/akshitavijay) | [akshita.vijay654@gmail.com](mailto:akshita.vijay654@gmail.com) |
+| Utkarsh Jain | CSE | [@jainutkarsh567](https://github.com/jainutkarsh567) | [jainutkarsh567@gmail.com](mailto:jainutkarsh567@gmail.com) |
 |Kuldeep Singh Solanki| CSE | [@kuldeep2108](https://github.com/kuldeep2108) | [kuldeep.solanki2308@gmail.com](mailto:kuldeep.solanki2308@gmail.com) |
 | Suraj Kumar | CSE | [@surajkumarcse](https://github.com/surajkumarcse) | [surajkumar.2cse20@jecrc.ac.in](mailto:surajkumar.2cse20@jecrc.ac.in)|
 | Hitesh Wasdani | CSE| [@Hitesh98765](https://github.com/Hitesh98765) | [hwasdani@gmail.com](mailto:hwasdani@gmail.com) |
@@ -109,3 +107,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Saksham | CSE | [@saksham-ahuja](https://github.com/saksham-ahuja) | [sakshamahuja43@gmail.com](mailto:sakshamahuja43@gmail.com) |
 | Mridul Upadhyay | IT | [@shanimridul](https://github.com/shanimridul) | [mridulupadhyay38@gmail.com](mailto:mridulupadhyay38@gmail.com) |
 |Milin Shah | CSE | [@milin0102](https://github.com/milin0102) | [milinshah0102@gmail.com](mailto:milinshah0102@gmail.com) |
+| Namandeep Singh | CSE | [@nd-singh](https://github.com/nd-singh) | [ndsingh208@gmail.com](mailto:ndsingh208@gmail.com) |
+| Sakshi Sharma | CSE | [@sakshi20sh](https://github.com/sakshi20sh) | [sakshi.sh20@gmail.com](mailto:sakshi.sh20@gmail.com) |
+| Sachin Jain | CSE | [@sachinjain24](https://github.com/sachinjain24) | [jain24sachin@gmail.com](mailto:jain24sachin@gmail.com) |
+| Sumit Rastogi | CS | [@sumitrastogi1998](https://github.com/sumitrastogi1998) | [sumitrastogi.cse20@jecrc.ac.in](mailto:sumitrastogi.cse20@jecrc.ac.in) |
