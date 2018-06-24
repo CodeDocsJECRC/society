@@ -71,7 +71,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Akshay Gagrani | CSE | [@Akshaygagrani](https://github.com/Akshaygagrani) | [gagrani.akshay@gmail.com](mailto:gagrani.akshay@gmail.com)|
 | Vaishali Goyal | CSE | [@VaishaliGoyal307](https://github.com/VaishaliGoyal307/society.git) | [goyalvaishali307@gmail.com](mailto:goyalvaishali307@gmail.com)|
 | Lakshay Wadhwa | CSE | [@luck-u](https://github.com/luck-u) | [lakshaywadhwa001@gmail.com](mailto.lakshaywadhwa001@gmail.com)|
-|Aman Srivastav| CSE | .[@sriaman](https://github.com/sriaman) | [aman.srivastavmau@gmail.com](mailto:aman.srivastavmau@gmail.com)|
+|Aman Srivastav| CSE | [@sriaman](https://github.com/sriaman) | [aman.srivastavmau@gmail.com](mailto:aman.srivastavmau@gmail.com)|
 | Arpit Jain | CSE | [@maiarpitjain](https://github.com/maiarpitjain) | [maiarpitjain94@gmail.com](mailto:maiarpitjain94@gmail.com)|
 | Abhilash kumar tiwari | CSE | [@abhilashk433](https://github.com/abhilashk433/society.git) | [abhilashk433@gmail.com](mailto:abhilashk433@gmail.com)|
 | Anshu jain | CSE | [@jainanshu](https://github.com/jainanshu) | [anshujain8441@gmail.com](mailto:anshujain8441@gmail.com)|
@@ -106,7 +106,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Poonam Rathore | CSE | [@poonamrathore](https://github.com/poonamrathore) | [poonamrathore.1748@gmail.com](mailto:poonamrathore.1748@gmail.com) |
 | Saksham | CSE | [@saksham-ahuja](https://github.com/saksham-ahuja) | [sakshamahuja43@gmail.com](mailto:sakshamahuja43@gmail.com) |
 | Mridul Upadhyay | IT | [@shanimridul](https://github.com/shanimridul) | [mridulupadhyay38@gmail.com](mailto:mridulupadhyay38@gmail.com) |
-| kajal tekchandani | CSE | [@kajal07(https://github.com/kajal07) | [kajaltekchandani6398@gmail.com](mailto:kajaltekchandani6398@gmail.com) |
+| kajal tekchandani | CSE | [@kajal07](https://github.com/kajal07) | [kajaltekchandani6398@gmail.com](mailto:kajaltekchandani6398@gmail.com) |
 |Milin Shah | CSE | [@milin0102](https://github.com/milin0102) | [milinshah0102@gmail.com](mailto:milinshah0102@gmail.com) |
 | Namandeep Singh | CSE | [@nd-singh](https://github.com/nd-singh) | [ndsingh208@gmail.com](mailto:ndsingh208@gmail.com) |
 | Sakshi Sharma | CSE | [@sakshi20sh](https://github.com/sakshi20sh) | [sakshi.sh20@gmail.com](mailto:sakshi.sh20@gmail.com) |
