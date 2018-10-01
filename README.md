@@ -113,3 +113,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Sachin Jain | CSE | [@sachinjain24](https://github.com/sachinjain24) | [jain24sachin@gmail.com](mailto:jain24sachin@gmail.com) |
 | Sumit Rastogi | CS | [@sumitrastogi1998](https://github.com/sumitrastogi1998) | [sumitrastogi.cse20@jecrc.ac.in](mailto:sumitrastogi.cse20@jecrc.ac.in) |
 | Aditya Kaushik| CSE | [@aditya98ak](https://github.com/aditya98ak) | [adityakaushik471@gmail.com](mailto:adityakaushik471@gmail.com) |
+| Harshit Bansal| CSE | [@harshitbansal373](https://github.com/harshitbansal373) | [harshitbansal373@gmail.com](mailto:harshitbansal373@gmail.com) |
