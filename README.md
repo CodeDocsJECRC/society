@@ -114,3 +114,4 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Sumit Rastogi | CS | [@sumitrastogi1998](https://github.com/sumitrastogi1998) | [sumitrastogi.cse20@jecrc.ac.in](mailto:sumitrastogi.cse20@jecrc.ac.in) |
 | Aditya Kaushik| CSE | [@aditya98ak](https://github.com/aditya98ak) | [adityakaushik471@gmail.com](mailto:adityakaushik471@gmail.com) |
 | Harshit Bansal| CSE | [@harshitbansal373](https://github.com/harshitbansal373) | [harshitbansal373@gmail.com](mailto:harshitbansal373@gmail.com) |
+| Harshit Khandelwal| ME | [@liveHarshit](https://github.com/liveHarshit) | [live.harshit@hotmail.com](mailto:live.harshit@hotmail.com) |
