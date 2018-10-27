@@ -80,7 +80,7 @@ Raise an issue [Issue](https://github.com/CodeDocsJECRC/society/issues/new)
 | Sejal Jain | CSE | [@sejalkh](https://github.com/sejalkh) | [sejal8001@gmail.com](mailto:sejal8001@gmail.com)|
 | Virendra Pratap Singh Jhala | CSE | [@virendrajhala](https://github.com/virendrajhala) | [virendrapratapsinghjhala@gmail.com](mailto:virendrapratapsinghjhala@gmail.com) |
 | Prince Jhabak | CSE | [@Princejhabak](https://github.com/Princejhabak) | [princejhabak.cse20@jecrc.ac.in](mailto:princejhabak.cse20@jecrc.ac.in) |
-| Neeraj Sewani | CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
+| Neeraj Sewani |  CSE | [@neer17](https://github.com/neer17) | [neerajsewanisrt8@gmail.com](mailto:neerajsewanisrt8@gmail.com) |
 | Dhruv Shridhar | CSE | [@dhruvshridhar](https://github.com/dhruvshridhar) | [dhruvshridhar@gmail.com](mailto:dhruvshridhar@gmail.com) |
 | Sparsh Singhal | CSE | [@sparsh1999](https://github.com/sparsh1999) | [sparshsinghal95@gmail.com](mailto:sparshsinghal95@gmail.com) |
 | Prateek Sahu | CSE | [@Prateek99999](https://github.com/Prateek99999) | [prateeksahu.cse20@jecrc.ac.in](mailto:prateeksahu.cse20@jecrc.ac.in) |
